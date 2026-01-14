@@ -7,7 +7,7 @@ L'azienda **FinSecure Analytics**, specializzata in consulenza finanziaria e ges
 Sviluppare un **agente AI** basato su modelli avanzati di NLP e analisi predittiva per supportare il team finanziario nelle attività di **gestione del rischio e audit interattivi**, fornendo insight automatici e strumenti di simulazione per scenari finanziari complessi.
 
 ## Soluzione Tecnologica
-L'agente AI si basa su tecnologie di **Machine Learning** e **Large Language Models (LLMs)**, combinando framework come **LangChain, Hugging Face e LlamaIndex** per offrire le seguenti funzionalità:
+L'agente AI si basa su tecnologie di **Machine Learning** e **Large Language Models (LLMs)**, combinando framework come **LangChain e LlamaIndex** per offrire le seguenti funzionalità:
 - **Analisi automatizzata dei report finanziari**: estrazione di KPI e identificazione di anomalie.
 - **Simulazione scenari di rischio**: modellazione di possibili impatti finanziari in base ai dati storici e a variabili economiche.
 - **Audit interattivo**: chatbot intelligente per rispondere a domande sulle analisi finanziarie e suggerire azioni correttive.
@@ -28,7 +28,7 @@ L'agente AI si basa su tecnologie di **Machine Learning** e **Large Language Mod
 
 ## Implementazione
 Il progetto prevede tre fasi principali:
-1. **Fase 1 - Raccolta e Pre-processing Dati**: acquisizione e normalizzazione dei dati finanziari aziendali.
+1. **Fase 1 - Raccolta e Pre-processing Dati**: acquisizione e normalizzazione dei dati finanziari aziendali. Questi dati possono essere simulati mediante un qualsiasi LLM che genera documenti di testo (es. ChatGPT o Gemini).
 2. **Fase 2 - Sviluppo dell'Agente AI**: addestramento dei modelli e integrazione con gli strumenti aziendali.
 3. **Fase 3 - Testing e Deployment**: validazione dei risultati con dati reali e rilascio dell’agente in ambiente di produzione.
 
